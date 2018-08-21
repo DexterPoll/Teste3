@@ -1,2 +1,2 @@
-Lista d ejogos
+Lista de jogos
 
